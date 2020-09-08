@@ -1,4 +1,5 @@
-![GitHub Logo](C:\Users\SIDD\OneDrive - UMBC\IS 777\Project)
+![IS777_PROJECT_WRRP_PRESENTATION](https://user-images.githubusercontent.com/57547960/92500044-9abd3380-f1ca-11ea-8cb5-1fabda4df064.png)
+
 # Wisonsin-breast-cancer-data-analysis
 Breast cancer being one of the major cause of death among women, if tumor is not detected in early stages sometimes it is difficult to detect the tumor therefore, I am trying to implement machine learning algorithm to detect breast cancer for the well being of mankind.
 
