@@ -8,3 +8,5 @@ Machine learning incorporates a large set of statistical techniques.
 With the help of these techniques we can create models with old data and detect patterns from noisy and massive data set.
 We have used various statistical learning methods for cancer prediction and prognosis.
 The objective is to present a report on breast cancer where we took advantage of those available technological advancements to develop prediction models for breast cancer survivability.
+
+Breast cancer is the most common malignancy in women, accounting for almost 1 in 3 cancers diagnosed among women in the United States, and is the second leading cause of death for women from cancer. Breast cancer occurs as a result of irregular breast tissue cell growth, commonly known as a tumor. A tumor does not mean cancer-tumors can be either benign (not cancerous), pre-malignant (pre-cancerous), or cancerous. Tests including MRI, mammogram, ultrasound, and biopsy are widely used to detect performed breast cancer. We can create a classifier that can help diagnose patients and predict the likelihood of a breast cancer.
